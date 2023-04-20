@@ -1,3 +1,3 @@
-yourName = "Danylo"
+yourName = "Anna"
 
 print("Hello, ", yourName)
